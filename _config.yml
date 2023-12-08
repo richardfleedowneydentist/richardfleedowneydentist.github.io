@@ -63,8 +63,8 @@ author:
   bio    : "12119 Paramount Blvd, Downey, CA 90242"
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+      icon: "fas fa-fw fa-map-marker"
+      url: "https://maps.app.goo.gl/U1YcZPM8eKkVUvQe7"
 
 footer:
   links:
